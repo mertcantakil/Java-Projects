@@ -1,0 +1,190 @@
+
+C Price: 618.6 -0
+
+A Price: 203.96 -0.02
+
+D Price: 703.88 -0.02
+
+B Price: 394.04 0.02
+
+E Price: 432.08 0.02
+
+B Price: 394.08 0.03
+
+E Price: 432.02 -0.02
+
+C Price: 618.64 0.02
+
+A Price: 203.98 -0
+
+D Price: 703.88 -0.01
+
+C Price: 618.66 0.02
+
+E Price: 432 -0.02
+
+D Price: 703.85 -0.02
+
+A Price: 203.94 -0.02
+
+B Price: 393.99 -0.03
+
+A Price: 204.02 0.03
+
+B Price: 394 -0.01
+
+E Price: 432.02 0
+
+C Price: 618.6 -0.02
+
+D Price: 703.91 0.02
+
+D Price: 703.89 0
+
+A Price: 203.97 -0.01
+
+B Price: 393.97 -0.02
+
+C Price: 618.58 -0.02
+
+E Price: 432 -0.01
+
+E Price: 432.03 0.01
+
+A Price: 203.94 -0.02
+
+B Price: 393.95 -0.02
+
+C Price: 618.58 -0.01
+
+D Price: 703.89 -0
+
+C Price: 618.59 0
+
+E Price: 431.98 -0.02
+
+B Price: 393.99 0.01
+
+A Price: 203.9 -0.03
+
+D Price: 703.95 0.03
+
+C Price: 618.61 0.01
+
+E Price: 431.98 -0.01
+
+A Price: 203.97 0.02
+
+B Price: 393.94 -0.02
+
+D Price: 703.88 -0.02
+
+E Price: 431.95 -0.02
+
+C Price: 618.64 0.02
+
+A Price: 203.99 0.02
+
+B Price: 394 0.02
+
+D Price: 703.86 -0.02
+
+A Price: 203.93 -0.02
+
+D Price: 703.9 0.01
+
+C Price: 618.66 0.02
+
+E Price: 431.95 -0.01
+
+B Price: 393.94 -0.02
+
+E Price: 432.02 0.03
+
+B Price: 393.98 0.01
+
+D Price: 703.89 -0
+
+C Price: 618.66 0.01
+
+A Price: 203.93 -0.01
+
+C Price: 618.61 -0.02
+
+E Price: 432.01 0.01
+
+A Price: 203.9 -0.02
+
+D Price: 703.85 -0.02
+
+B Price: 393.99 0.01
+
+D Price: 703.91 0.02
+
+C Price: 618.67 0.02
+
+A Price: 203.94 0.01
+
+E Price: 432.02 0.01
+
+B Price: 393.94 -0.02
+
+E Price: 431.97 -0.02
+
+A Price: 203.89 -0.02
+
+B Price: 393.92 -0.02
+
+C Price: 618.61 -0.02
+
+D Price: 703.85 -0.02
+
+A Price: 203.95 0.02
+
+B Price: 393.92 -0.01
+
+D Price: 703.87 -0
+
+C Price: 618.65 0.01
+
+E Price: 432.05 0.03
+
+A Price: 203.95 0.01
+
+C Price: 618.66 0.01
+
+D Price: 703.89 0.01
+
+B Price: 393.97 0.02
+
+E Price: 432 -0.01
+
+B Price: 394.01 0.03
+
+E Price: 431.99 -0.01
+
+D Price: 703.86 -0.01
+
+A Price: 203.98 0.02
+
+C Price: 618.63 -0.01
+
+C Price: 618.66 0.01
+
+A Price: 204 0.02
+
+D Price: 703.89 0.01
+
+B Price: 394.02 0.02
+
+E Price: 432 -0
+
+B Price: 394.06 0.03
+
+C Price: 618.69 0.02
+
+D Price: 703.9 0.01
+
+A Price: 203.94 -0.02
+
+E Price: 431.98 -0.01
