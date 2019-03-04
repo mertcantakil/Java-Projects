@@ -1,1 +1,2 @@
-Java Threads with Observer Design Pattern
+# JAVA PROJECTS
+  
