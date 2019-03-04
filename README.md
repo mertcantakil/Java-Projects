@@ -1,2 +1,1 @@
-# JAVA PROJECTS
-  
+Java Projects
